@@ -1,0 +1,11 @@
+D:\Estudos\dotnet\Petfolio\Petfolio.Communication\bin\Debug\net8.0\Petfolio.Communication.deps.json
+D:\Estudos\dotnet\Petfolio\Petfolio.Communication\bin\Debug\net8.0\Petfolio.Communication.dll
+D:\Estudos\dotnet\Petfolio\Petfolio.Communication\bin\Debug\net8.0\Petfolio.Communication.pdb
+D:\Estudos\dotnet\Petfolio\Petfolio.Communication\obj\Debug\net8.0\Petfolio.Communication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\dotnet\Petfolio\Petfolio.Communication\obj\Debug\net8.0\Petfolio.Communication.AssemblyInfoInputs.cache
+D:\Estudos\dotnet\Petfolio\Petfolio.Communication\obj\Debug\net8.0\Petfolio.Communication.AssemblyInfo.cs
+D:\Estudos\dotnet\Petfolio\Petfolio.Communication\obj\Debug\net8.0\Petfolio.Communication.csproj.CoreCompileInputs.cache
+D:\Estudos\dotnet\Petfolio\Petfolio.Communication\obj\Debug\net8.0\Petfolio.Communication.dll
+D:\Estudos\dotnet\Petfolio\Petfolio.Communication\obj\Debug\net8.0\refint\Petfolio.Communication.dll
+D:\Estudos\dotnet\Petfolio\Petfolio.Communication\obj\Debug\net8.0\Petfolio.Communication.pdb
+D:\Estudos\dotnet\Petfolio\Petfolio.Communication\obj\Debug\net8.0\ref\Petfolio.Communication.dll
